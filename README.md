@@ -8,6 +8,8 @@ Age is a simple Python 3 program. The program takes in a birthdate and returns h
 
 ## Setup: Follow these instructions exactly
 
+You MUST have Python 3 installed in order to run this program. Please go to https://www.python.org/ to download Python 3.
+
 1. Open your terminal
 1. Clone this repository
 1. `cd` into the directory it creates

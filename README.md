@@ -1,6 +1,6 @@
 # AGE
 
-![Age Screenshot](./age_screenshot.png)
+![Age Screenshot](./age_result_screenshot.png)
 
 ## What is Age?
 
